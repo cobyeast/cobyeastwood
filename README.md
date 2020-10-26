@@ -5,7 +5,7 @@ Originally from Portland, OR. Graduated from Gonzaga University in 2018. Persona
 
 Checkout my [website](https://cobyeastwood.com).
 
-### Technologies & Tools :nut_and_bolt:
+### Tools & Technologies :nut_and_bolt:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9cf)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=9cf)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=9cf)
