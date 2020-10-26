@@ -17,10 +17,10 @@ Checkout my [website](https://cobyeastwood.com).
 ### Mindset :thought_balloon:
 
 ```javascript 
-const WEEK_DAYS = 7;
+const WEEKDAYS = 7;
 let today = new Date(Date.now());
 
-while (today.getDay() <= WEEK_DAYS) {
+while (today.getDay() <= WEEKDAYS) {
     neverStopLearning();
     keepGrowing();
     liveWithPurpose();
