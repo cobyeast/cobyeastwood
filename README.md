@@ -18,9 +18,8 @@ Checkout my [website](https://cobyeastwood.com).
 
 ```javascript 
 const WEEKDAYS = 7;
-let today = new Date(Date.now());
 
-while (today.getDay() <= WEEKDAYS) {
+while (new Date().getDay() <= WEEKDAYS) {
     neverStopLearning();
     keepGrowing();
     liveWithPurpose();
