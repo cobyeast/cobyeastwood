@@ -3,8 +3,6 @@ My name is Coby Eastwood, and I am a current Software Developer @stratusdata.
 
 Originally from Portland, OR. Graduated from Gonzaga University in 2018. Personally, love all things running, coding, and coffee. Apart from English, I also speak Dutch, and German.
 
-Checkout my [website](https://cobyeastwood.com).
-
 ### Tools & Technologies :nut_and_bolt:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9cf)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=9cf)
