@@ -1,5 +1,5 @@
 # Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Coby Eastwood, and I am a current Software Engineer @stratusdata. 
+My name is Coby Eastwood, and I am a current Software Developer @stratusdata. 
 
 Originally from Portland, OR. Graduated from Gonzaga University in 2018. Personally, love all things running, coding, and coffee. Apart from English, I also speak Dutch, and German.
 
