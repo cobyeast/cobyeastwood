@@ -1,6 +1,6 @@
 ## Nice to Meet You! <img src="https://github.com/cobyeastwood/cobyeastwood/blob/main/bell.gif" align="center" width="25px">
 
-I am Coby. I am a previous Marketer and a converted Developer.
+I am Coby, a previous Marketer and converted Developer.
 
 <br>
 
