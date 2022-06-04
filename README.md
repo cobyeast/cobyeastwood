@@ -1,4 +1,4 @@
-## Nice to Meet You! <img src="https://github.com/cobyeastwood/cobyeastwood/blob/main/bell.gif" height="20px" width="20px"/>
+## Nice to Meet You!
 
 I am Coby, a previous Marketer and converted Engineer.
 
