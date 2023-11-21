@@ -1,10 +1,9 @@
-## Nice to Meet You!
+## Nice to Meet You! 👋
 
-I am Coby, a previous Marketer and converted Engineer.
+Hello there! I am Coby. Welcome to my GitHub page.
 
 <br>
 
-| | |
-| :---: | :--- |
 | <img src="https://github.com/cobyeastwood/cobyeastwood/blob/main/laptop-code-solid.svg" width="15px"> | @igluu |
+| --- | --- |
 | <img src="https://github.com/cobyeastwood/cobyeastwood/blob/main/heart-pulse-solid.svg" width="15px"> | Running, Coding, and Coffee |
